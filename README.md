@@ -1,4 +1,4 @@
-# typescript_to_do
+# typescript-to-do
 
 Block de tareas realizado con: 
 * Typescript
@@ -6,9 +6,9 @@ Block de tareas realizado con:
 
 ## Url Project
 
-[Game Store](https://aitorqc.github.io/typescript_to_do)
+[Game Store](https://aitorqc.github.io/typescript-to-do)
 
 ## Captura
 
-![Captura](https://github.com/aitorqc/typescript_to_do/blob/main/public/captura.png)
+![Captura](https://github.com/aitorqc/typescript-to-do/blob/main/public/captura.png)
 

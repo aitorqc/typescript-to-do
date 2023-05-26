@@ -1,7 +1,7 @@
 {
   "name": "typescript_to_do",
   "private": true,
-  "homepage": "https://aitorqc.github.io/typescript_to_do",
+  "homepage": "https://aitorqc.github.io/typescript-to-do",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
